@@ -1,6 +1,6 @@
 # Project-3
 
-Anticipate consumption needs of buildings
+# Anticipate consumption needs of buildings
 
 To achieve its goal of a carbon-neutral city by 2050, the city of Seattle closely examines the consumption and emissions of non-residential buildings.
 
