@@ -1,4 +1,4 @@
-# projet-3
+# Project-3
 
 Anticipate consumption needs of buildings
 
